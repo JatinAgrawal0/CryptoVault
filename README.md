@@ -69,7 +69,7 @@
 
 ## Usage 🚀
 
-1. Open the application in your web browser: [CryptoVault](https://frontend-react-js-opal.vercel.app/).
+1. Open the application in your web browser: [CryptoVault](https://cryptovault.jatinagrawal.co.in/).
 2. Create an account or log in to access all features.
 3. Navigate through the dashboard to buy, sell, and manage your crypto portfolio.
 4. Use the AI Chat Bot for real-time assistance and information.
